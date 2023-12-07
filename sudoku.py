@@ -1,3 +1,5 @@
+# Group 9
+
 # Helper function to find an empty cell in the puzzle
 def find_empty_location(puzzle):
     for row in range(9):
